@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1528987937972_686051_4110"><annotatedElement humanName="Annotated Element" mode="standard,expert"><diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+Clinical Profiles involve 3 FHIR resources:
+
+    &lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+Clinical Profile Definition -- defines the query used to select the cohort and profile variables.
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Distribution Definition -- defines how the a clinical profile definition is aggregated and summarized
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Clinical Profile -- the result of applying a distribution definition to a clinical profile
+
+      &lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Diagram" humanName="Owner" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" mode="standard,expert" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/><owningElement classType="Diagram" humanName="Owning Element" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

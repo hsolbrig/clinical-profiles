@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529012081868_789248_6631"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR StructureDefinition" refid="_18_2_bf902f3_1528989674430_608427_4602"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&lt;a href="https://hl7.org/fhir/structuredefinition.html"&gt;StructureDefinition&lt;/a&gt; is:
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+A definition of a FHIR structure. This resource is used to describe the underlying resources, data types defined in FHIR, and also for describing extensions and constraints on resources and data types.&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="FHIR StructureDefinition" refid="_18_2_bf902f3_1528989674430_608427_4602"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR StructureDefinition" refid="_18_2_bf902f3_1528989674430_608427_4602"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529012680574_3203_6681"><annotatedElement humanName="Annotated Element" mode="standard,expert"><association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Distribution Definition - variable binding:binding]" refid="_18_2_bf902f3_1528991797160_599445_5545"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;a href="mdel://_18_2_bf902f3_1528990408568_447705_4788"&gt;distribution definition&lt;/a&gt; contains zero or more &lt;a href="mdel://_18_2_bf902f3_1528991774022_753229_5484"&gt;bindings&lt;/a&gt;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Association" humanName="Owner" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" mode="standard,expert" name="Association[Distribution Definition - variable binding:binding]" refid="_18_2_bf902f3_1528991797160_599445_5545"/><owningElement classType="Association" humanName="Owning Element" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Distribution Definition - variable binding:binding]" refid="_18_2_bf902f3_1528991797160_599445_5545"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

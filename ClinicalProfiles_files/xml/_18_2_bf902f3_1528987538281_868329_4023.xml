@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" id="_18_2_bf902f3_1528987538281_868329_4023"><allGeneralClassifiers humanName="All General Classifiers"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081"/></allGeneralClassifiers><allSpecificClassifiers humanName="All Specific Classifiers"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Definition" refid="_18_2_bf902f3_1528990408568_447705_4788"/></allSpecificClassifiers><documentation humanName="Documentation" mode="standard">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;a href="https://hl7.org/fhir/domainresource.html"&gt;domain resource&lt;/a&gt; is an resource that:
+
+    &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+has a human-readable XHTML representation of the content of the resource (see &lt;a href="https://hl7.org/fhir/narrative.html"&gt;Human Narrative in resources&lt;/a&gt;)
+
+      &lt;/li&gt;
+      &lt;li&gt;
+can contain additional related resources inside the resource (see &lt;a href="https://hl7.org/fhir/references.html#contained"&gt;Contained Resources&lt;/a&gt;)
+
+      &lt;/li&gt;
+      &lt;li&gt;
+can have additional extensions and modifierExtensions as well as the defined data (See &lt;a href="https://hl7.org/fhir/extensibility.html"&gt;Extensibility&lt;/a&gt;)
+
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+As an abstract resource, this resource is never created directly; instead, one of its descendent resources (&lt;a href="https://hl7.org/fhir/resourcelist.html"&gt;see List of Resources&lt;/a&gt;) is created.
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</documentation><generalization humanName="Generalization"><generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528987905951_125422_4109"/></generalization><isAbstract humanName="Is Abstract" mode="standard,expert">true</isAbstract><isActive humanName="Is Active" mode="standard,expert">false</isActive><isFinalSpecialization humanName="Is Final Specialization" mode="expert">false</isFinalSpecialization><isLeaf humanName="Is Leaf" mode="expert">false</isLeaf><name humanName="Name" mode="standard,expert">FHIR DomainResource</name><namespace classType="Model" humanName="Namespace" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><ownedComment humanName="Owned Comment"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1528987683185_850690_4079"/></ownedComment><ownedElement humanName="Owned Element"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1528987683185_850690_4079"/><generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528987905951_125422_4109"/></ownedElement><owner classType="Model" humanName="Owner" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" mode="standard,expert" name="Data" refid="eee_1045467100313_135436_1"/><owningPackage classType="Model" humanName="Owning Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><package classType="Model" humanName="Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><qualifiedName humanName="Qualified Name" mode="expert">FHIR DomainResource</qualifiedName><specificClassifier humanName="Specific Classifier"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Definition" refid="_18_2_bf902f3_1528990408568_447705_4788"/></specificClassifier><superClass humanName="Super Class"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081"/></superClass><TO_DO humanName="To Do" mode="standard,expert"/><visibility humanName="Visibility" mode="expert">public</visibility><appearsIn><diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/></appearsIn></class></magicdraw>

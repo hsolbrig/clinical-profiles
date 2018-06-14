@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529011887225_416613_6622"><annotatedElement humanName="Annotated Element" mode="standard,expert"><association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1994960867.jpg" isRelationship="true" name="element reference" refid="_18_2_bf902f3_1528989712678_15291_4686"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;The result of interpreting the &lt;a href="https://build.fhir.org/fhirpath.html"&gt;FHIRPath&lt;/a&gt; &lt;i&gt;reference&lt;/i&gt; attribute of the &lt;a href="mdel://_18_2_bf902f3_1528988314949_20016_4217"&gt;Profile Variable&lt;/a&gt;. An implicit / derived association.
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Association" humanName="Owner" humanType="Association" icon="ClinicalProfiles_files/icon_association_1994960867.jpg" isRelationship="true" mode="standard,expert" name="element reference" refid="_18_2_bf902f3_1528989712678_15291_4686"/><owningElement classType="Association" humanName="Owning Element" humanType="Association" icon="ClinicalProfiles_files/icon_association_1994960867.jpg" isRelationship="true" name="element reference" refid="_18_2_bf902f3_1528989712678_15291_4686"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

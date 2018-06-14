@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" id="_18_2_bf902f3_1528989674430_608427_4602"><attribute humanName="Attribute"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></attribute><documentation humanName="Documentation" mode="standard">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&lt;a href="https://hl7.org/fhir/structuredefinition.html"&gt;StructureDefinition&lt;/a&gt; is:
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+A definition of a FHIR structure. This resource is used to describe the underlying resources, data types defined in FHIR, and also for describing extensions and constraints on resources and data types.&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</documentation><feature humanName="Feature"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></feature><isAbstract humanName="Is Abstract" mode="standard,expert">false</isAbstract><isActive humanName="Is Active" mode="standard,expert">false</isActive><isFinalSpecialization humanName="Is Final Specialization" mode="expert">false</isFinalSpecialization><isLeaf humanName="Is Leaf" mode="expert">false</isLeaf><member humanName="Member"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></member><name humanName="Name" mode="standard,expert">FHIR StructureDefinition</name><namespace classType="Model" humanName="Namespace" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><ownedAttribute humanName="Owned Attribute"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></ownedAttribute><ownedComment humanName="Owned Comment"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529012081868_789248_6631"/></ownedComment><ownedElement humanName="Owned Element"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529012081868_789248_6631"/><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></ownedElement><ownedMember humanName="Owned Member"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></ownedMember><owner classType="Model" humanName="Owner" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" mode="standard,expert" name="Data" refid="eee_1045467100313_135436_1"/><owningPackage classType="Model" humanName="Owning Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><package classType="Model" humanName="Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><part humanName="Part"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></part><qualifiedName humanName="Qualified Name" mode="expert">FHIR StructureDefinition</qualifiedName><role humanName="Role"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660"/></role><TO_DO humanName="To Do" mode="standard,expert"/><visibility humanName="Visibility" mode="expert">public</visibility><appearsIn><diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/></appearsIn></class></magicdraw>

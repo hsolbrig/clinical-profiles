@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529012581259_96900_6675"><annotatedElement humanName="Annotated Element" mode="standard,expert"><associationclass classType="AssociationClass" humanType="Association Class" icon="ClinicalProfiles_files/icon_associationclass_1592712032.jpg" isRelationship="true" name="binding" refid="_18_2_bf902f3_1528991774022_753229_5484"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;The association of the parameter of a &lt;a href="mdel://_18_2_bf902f3_1528990602100_816787_4924"&gt;distribution algorithm&lt;/a&gt; with a &lt;a href="mdel://_18_2_bf902f3_1528988314949_20016_4217"&gt;profile variable&lt;/a&gt;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="AssociationClass" humanName="Owner" humanType="Association Class" icon="ClinicalProfiles_files/icon_associationclass_1592712032.jpg" isRelationship="true" mode="standard,expert" name="binding" refid="_18_2_bf902f3_1528991774022_753229_5484"/><owningElement classType="AssociationClass" humanName="Owning Element" humanType="Association Class" icon="ClinicalProfiles_files/icon_associationclass_1592712032.jpg" isRelationship="true" name="binding" refid="_18_2_bf902f3_1528991774022_753229_5484"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

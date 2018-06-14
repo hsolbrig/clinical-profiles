@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" id="_18_2_bf902f3_1528989685117_934640_4629"><attribute humanName="Attribute"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></attribute><documentation humanName="Documentation" mode="standard">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;An &lt;a href="https://www.hl7.org/FHIR/elementdefinition.html"&gt;ElementDefinition&lt;/a&gt; is:
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;p&gt;
+The definition of an element in a resource or an extension. The definition includes:
+
+      &lt;/p&gt;
+
+
+    &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+Path (name), Cardinality, and data type
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Definitions, usage notes, and requirements
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Default or fixed values
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Constraints, Length limits, and other usage rules
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Terminology Binding
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Mappings to other specifications
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Structural Usage Information such as &lt;a href="https://www.hl7.org/FHIR/profiling.html#slicing"&gt;Slicing&lt;/a&gt;
+
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+The ElementDefinition type is the core of the FHIR metadata layer, and is closely (conceptually) aligned to &lt;a href="https://www.hl7.org/FHIR/elementdefinition-mappings.html#iso11179"&gt;ISO 11179&lt;/a&gt;. The &lt;a href="https://www.hl7.org/FHIR/dataelement.html"&gt;DataElement&lt;/a&gt; resource is a packaging wrapper around the ElementDefinition type. All the data elements defined in this specification are published as a collection of data elements (&lt;a href="https://www.hl7.org/FHIR/dataelements.xml"&gt;XML&lt;/a&gt; or &lt;a href="https://www.hl7.org/FHIR/dataelements.json"&gt;JSON&lt;/a&gt;).
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</documentation><feature humanName="Feature"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></feature><isAbstract humanName="Is Abstract" mode="standard,expert">false</isAbstract><isActive humanName="Is Active" mode="standard,expert">false</isActive><isFinalSpecialization humanName="Is Final Specialization" mode="expert">false</isFinalSpecialization><isLeaf humanName="Is Leaf" mode="expert">false</isLeaf><member humanName="Member"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></member><name humanName="Name" mode="standard,expert">FHIR ElementDefinition</name><namespace classType="Model" humanName="Namespace" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><ownedAttribute humanName="Owned Attribute"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></ownedAttribute><ownedComment humanName="Owned Comment"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529011993890_18408_6626"/></ownedComment><ownedElement humanName="Owned Element"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529011993890_18408_6626"/><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></ownedElement><ownedMember humanName="Owned Member"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></ownedMember><owner classType="Model" humanName="Owner" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" mode="standard,expert" name="Data" refid="eee_1045467100313_135436_1"/><owningPackage classType="Model" humanName="Owning Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><package classType="Model" humanName="Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><qualifiedName humanName="Qualified Name" mode="expert">FHIR ElementDefinition</qualifiedName><role humanName="Role"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/></role><TO_DO humanName="To Do" mode="standard,expert"/><visibility humanName="Visibility" mode="expert">public</visibility><appearsIn><diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/></appearsIn></class></magicdraw>

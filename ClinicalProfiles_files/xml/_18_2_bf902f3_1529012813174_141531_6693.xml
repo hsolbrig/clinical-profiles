@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529012813174_141531_6693"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A Clinical Profile is the result of executing a &lt;a href="mdel://_18_2_bf902f3_1528990408568_447705_4788"&gt;Distribution&amp;#160;Definition&lt;/a&gt; against the results of the execution of a &lt;a href="mdel://_18_2_bf902f3_1528987628874_681091_4050"&gt;Clinical&amp;#160;Profile Definition&lt;/a&gt;. &amp;#160;The &lt;a href="mdel://_18_2_bf902f3_1528987628874_681091_4050"&gt;Clinical&amp;#160;Profile Definition&lt;/a&gt; creates a list that consists of a set of &lt;a href="mdel://_18_2_bf902f3_1528988314949_20016_4217"&gt;profile variable&lt;/a&gt; instances. &amp;#160;These instances are then processed as inputs to the &lt;a href="mdel://_18_2_bf902f3_1528990602100_816787_4924"&gt;Distribution&amp;#160;Algorithms&lt;/a&gt; in the referenced &lt;a href="mdel://_18_2_bf902f3_1528990408568_447705_4788"&gt;Distribution&amp;#160;Definition&lt;/a&gt;, resulting in the contained &lt;a href="mdel://_18_2_bf902f3_1528994976509_987978_5810"&gt;Cohort&lt;/a&gt;.
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+A Clinical Profile combines metadata about the distribution definition, clinical profile definition, target server, time, etc. with a
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

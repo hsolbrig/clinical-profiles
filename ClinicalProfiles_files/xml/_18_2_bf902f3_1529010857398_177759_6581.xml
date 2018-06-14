@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529010857398_177759_6581"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;a href="https://hl7.org/fhir/resource.html"&gt;resource&lt;/a&gt; is an entity that:
+
+    &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+has a known identity (a URL) by which it can be addressed
+
+      &lt;/li&gt;
+      &lt;li&gt;
+identifies itself as one of the types of resource defined in this specification
+
+      &lt;/li&gt;
+      &lt;li&gt;
+contains a set of structured data items as described by the definition of the resource type
+
+      &lt;/li&gt;
+      &lt;li&gt;
+has an identified version that changes if the contents of the resource change
+
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" mode="standard,expert" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

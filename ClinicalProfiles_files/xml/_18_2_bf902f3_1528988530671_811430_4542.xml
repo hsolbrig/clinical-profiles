@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" id="_18_2_bf902f3_1528988530671_811430_4542"><aggregation humanName="Aggregation" mode="standard,expert">none</aggregation><UMLClass classType="Class" humanName="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><classifier classType="Class" humanName="Classifier" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><documentation humanName="Documentation" mode="standard">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A reference to an &lt;a href="http://"&gt;https://hl7.org/fhir/elementdefinition.html#ElementDefinition&lt;/a&gt; within a FHIR &lt;a href="https://hl7.org/fhir/structuredefinition.html"&gt;StructureDefinition&lt;/a&gt;. &amp;#160;As an example, &lt;i&gt;reference &lt;/i&gt;might have the &lt;a href="https://build.fhir.org/fhirpath.html"&gt;FHIRPath&lt;/a&gt; specification to a hematocrit value in specific FHIR profile
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+See: FHIR &lt;a href="https://hl7.org/fhir/questionnaire-definitions.html#Questionnaire.item.definition"&gt;Questionnaire.item.definition&lt;/a&gt; for how this is intended to be used.
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</documentation><featuringClassifier classType="Class" humanName="Featuring Classifier" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><isComposite humanName="Is Composite">false</isComposite><isDerived humanName="Is Derived" mode="standard,expert">false</isDerived><isDerivedUnion humanName="Is Derived Union" mode="expert">false</isDerivedUnion><isID humanName="Is ID" mode="expert">false</isID><isLeaf humanName="Is Leaf">false</isLeaf><isOrdered humanName="Is Ordered" mode="expert">false</isOrdered><isReadOnly humanName="Is Read Only" mode="standard,expert">false</isReadOnly><isStatic humanName="Is Static" mode="standard,expert">false</isStatic><isUnique humanName="Is Unique" mode="expert">true</isUnique><lower humanName="Lower">1</lower><multiplicity humanName="Multiplicity" mode="standard,expert"/><multiplicity humanName="Multiplicity" mode="standard,expert"/><name humanName="Name" mode="standard,expert">reference</name><namespace classType="Class" humanName="Namespace" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><navigable humanName="Navigable" mode="expert">true</navigable><ownedBy classType="Class" humanName="Owned By" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><ownedComment humanName="Owned Comment"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1528988789266_891202_4545"/></ownedComment><ownedElement humanName="Owned Element"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1528988789266_891202_4545"/></ownedElement><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><qualifiedName humanName="Qualified Name" mode="expert">Profile Variable::reference</qualifiedName><redefinitionContext humanName="Redefinition Context"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/></redefinitionContext><TO_DO humanName="To Do" mode="standard,expert"/><type classType="Class" humanName="Type" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="URI" refid="_18_2_bf902f3_1528988695200_484095_4544"/><TYPE_MODIFIER humanName="Type Modifier" mode="expert"/><upper humanName="Upper">1</upper><visibility humanName="Visibility" mode="standard,expert">public</visibility></property></magicdraw>

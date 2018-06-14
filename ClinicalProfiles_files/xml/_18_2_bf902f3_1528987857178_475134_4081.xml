@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" id="_18_2_bf902f3_1528987857178_475134_4081"><allSpecificClassifiers humanName="All Specific Classifiers"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Definition" refid="_18_2_bf902f3_1528990408568_447705_4788"/><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR DomainResource" refid="_18_2_bf902f3_1528987538281_868329_4023"/></allSpecificClassifiers><documentation humanName="Documentation" mode="standard">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;a href="https://hl7.org/fhir/resource.html"&gt;resource&lt;/a&gt; is an entity that:
+
+    &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+has a known identity (a URL) by which it can be addressed
+
+      &lt;/li&gt;
+      &lt;li&gt;
+identifies itself as one of the types of resource defined in this specification
+
+      &lt;/li&gt;
+      &lt;li&gt;
+contains a set of structured data items as described by the definition of the resource type
+
+      &lt;/li&gt;
+      &lt;li&gt;
+has an identified version that changes if the contents of the resource change
+
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</documentation><isAbstract humanName="Is Abstract" mode="standard,expert">true</isAbstract><isActive humanName="Is Active" mode="standard,expert">false</isActive><isFinalSpecialization humanName="Is Final Specialization" mode="expert">false</isFinalSpecialization><isLeaf humanName="Is Leaf" mode="expert">false</isLeaf><name humanName="Name" mode="standard,expert">FHIR Resource</name><namespace classType="Model" humanName="Namespace" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><ownedComment humanName="Owned Comment"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529010857398_177759_6581"/></ownedComment><ownedElement humanName="Owned Element"><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1529010857398_177759_6581"/></ownedElement><owner classType="Model" humanName="Owner" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" mode="standard,expert" name="Data" refid="eee_1045467100313_135436_1"/><owningPackage classType="Model" humanName="Owning Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><package classType="Model" humanName="Package" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1"/><qualifiedName humanName="Qualified Name" mode="expert">FHIR Resource</qualifiedName><specificClassifier humanName="Specific Classifier"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR DomainResource" refid="_18_2_bf902f3_1528987538281_868329_4023"/></specificClassifier><TO_DO humanName="To Do" mode="standard,expert"/><visibility humanName="Visibility" mode="expert">public</visibility><appearsIn><diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989"/></appearsIn></class></magicdraw>

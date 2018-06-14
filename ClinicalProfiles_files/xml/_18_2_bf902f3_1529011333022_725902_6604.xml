@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529011333022_725902_6604"><annotatedElement humanName="Annotated Element" mode="standard,expert"><association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Clinical Profile Definition - Profile Variable]" refid="_18_2_bf902f3_1528988343241_127250_4247"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+Every &lt;a href="mdel://_18_2_bf902f3_1528987628874_681091_4050"&gt;Clinical Profile Definition&lt;/a&gt; contains one or more &lt;a href="mdel://_18_2_bf902f3_1528988314949_20016_4217"&gt;Profile Variables&lt;/a&gt;&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Association" humanName="Owner" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" mode="standard,expert" name="Association[Clinical Profile Definition - Profile Variable]" refid="_18_2_bf902f3_1528988343241_127250_4247"/><owningElement classType="Association" humanName="Owning Element" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Clinical Profile Definition - Profile Variable]" refid="_18_2_bf902f3_1528988343241_127250_4247"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

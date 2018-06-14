@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1528989163778_631727_4547"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;b&gt;Profile Variable&lt;/b&gt; identifies an element (column) that is the output of a query
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

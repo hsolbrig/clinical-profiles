@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529011993890_18408_6626"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR ElementDefinition" refid="_18_2_bf902f3_1528989685117_934640_4629"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;An &lt;a href="https://www.hl7.org/FHIR/elementdefinition.html"&gt;ElementDefinition&lt;/a&gt; is:
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;p&gt;
+The definition of an element in a resource or an extension. The definition includes:
+
+      &lt;/p&gt;
+
+
+    &lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;
+Path (name), Cardinality, and data type
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Definitions, usage notes, and requirements
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Default or fixed values
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Constraints, Length limits, and other usage rules
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Terminology Binding
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Mappings to other specifications
+
+      &lt;/li&gt;
+      &lt;li&gt;
+Structural Usage Information such as &lt;a href="https://www.hl7.org/FHIR/profiling.html#slicing"&gt;Slicing&lt;/a&gt;
+
+      &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;
+The ElementDefinition type is the core of the FHIR metadata layer, and is closely (conceptually) aligned to &lt;a href="https://www.hl7.org/FHIR/elementdefinition-mappings.html#iso11179"&gt;ISO 11179&lt;/a&gt;. The &lt;a href="https://www.hl7.org/FHIR/dataelement.html"&gt;DataElement&lt;/a&gt; resource is a packaging wrapper around the ElementDefinition type. All the data elements defined in this specification are published as a collection of data elements (&lt;a href="https://www.hl7.org/FHIR/dataelements.xml"&gt;XML&lt;/a&gt; or &lt;a href="https://www.hl7.org/FHIR/dataelements.json"&gt;JSON&lt;/a&gt;).
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="FHIR ElementDefinition" refid="_18_2_bf902f3_1528989685117_934640_4629"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR ElementDefinition" refid="_18_2_bf902f3_1528989685117_934640_4629"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

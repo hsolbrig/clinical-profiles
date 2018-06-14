@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1528988789266_891202_4545"><annotatedElement humanName="Annotated Element" mode="standard,expert"><property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="reference" refid="_18_2_bf902f3_1528988530671_811430_4542"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A reference to an &lt;a href="http://"&gt;https://hl7.org/fhir/elementdefinition.html#ElementDefinition&lt;/a&gt; within a FHIR &lt;a href="https://hl7.org/fhir/structuredefinition.html"&gt;StructureDefinition&lt;/a&gt;. &amp;#160;As an example, &lt;i&gt;reference &lt;/i&gt;might have the &lt;a href="https://build.fhir.org/fhirpath.html"&gt;FHIRPath&lt;/a&gt; specification to a hematocrit value in specific FHIR profile
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+See: FHIR &lt;a href="https://hl7.org/fhir/questionnaire-definitions.html#Questionnaire.item.definition"&gt;Questionnaire.item.definition&lt;/a&gt; for how this is intended to be used.
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Property" humanName="Owner" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" mode="standard,expert" name="reference" refid="_18_2_bf902f3_1528988530671_811430_4542"/><owningElement classType="Property" humanName="Owning Element" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="reference" refid="_18_2_bf902f3_1528988530671_811430_4542"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

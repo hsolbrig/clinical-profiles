@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<magicdraw>
+<model classType="Model" humanType="Model" icon="ClinicalProfiles_files/icon_model_1260127127.jpg" name="Data" refid="eee_1045467100313_135436_1">
+<ownedDiagram>
+<diagram classType="Diagram" humanType="Diagram" icon="ClinicalProfiles_files/icon_Class Diagram_1833691024.jpg" name="Query Profile" refid="_18_2_bf902f3_1528987528298_387902_3989">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_2_bf902f3_1528987937972_686051_4110"/>
+<instancespecification classType="InstanceSpecification" humanType="Instance Specification" icon="ClinicalProfiles_files/icon_instancespecification_663716901.jpg" isHidden="true" name=" : DiagramInfo" refid="_18_2_bf902f3_1528987528388_752079_4001">
+<ownedElement>
+<slot classType="Slot" humanType="Slot" icon="ClinicalProfiles_files/icon_slot_1500225674.jpg" isHidden="true" refid="_18_2_bf902f3_1528987528392_177232_4002">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="ClinicalProfiles_files/icon_literalstring_1645100721.jpg" isHidden="true" name="6/14/18 9:45 AM" refid="_18_2_bf902f3_1528987528393_468723_4003" text="6/14/18 9:45 AM"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="ClinicalProfiles_files/icon_slot_1500225674.jpg" isHidden="true" refid="_18_2_bf902f3_1528987528394_287563_4004">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="ClinicalProfiles_files/icon_literalstring_1645100721.jpg" isHidden="true" name="6/14/18 4:55 PM" refid="_18_2_bf902f3_1528987528394_404159_4005" text="6/14/18 4:55 PM"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="ClinicalProfiles_files/icon_slot_1500225674.jpg" isHidden="true" refid="_18_2_bf902f3_1528987528395_385088_4006">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="ClinicalProfiles_files/icon_literalstring_1645100721.jpg" isHidden="true" name="solbrig" refid="_18_2_bf902f3_1528987528395_442047_4007" text="solbrig"/>
+</ownedElement>
+</slot>
+<slot classType="Slot" humanType="Slot" icon="ClinicalProfiles_files/icon_slot_1500225674.jpg" isHidden="true" refid="_18_2_bf902f3_1528987528396_86271_4008">
+<ownedElement>
+<literalstring classType="LiteralString" humanType="Literal String" icon="ClinicalProfiles_files/icon_literalstring_1645100721.jpg" isHidden="true" name="solbrig" refid="_18_2_bf902f3_1528987528396_905983_4009" text="solbrig"/>
+</ownedElement>
+</slot>
+</ownedElement>
+</instancespecification>
+</ownedElement>
+</diagram>
+</ownedDiagram>
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" refid="_18_1beta_8c90288_1415101994820_370998_4336"/>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="..." refid="_18_2_bf902f3_1528991587648_843858_5372">
+<ownedElement>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528991597385_710385_5406"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Boolean" refid="_18_2_bf902f3_1528990624065_529626_4957">
+<ownedElement>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528991551007_300513_5352"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Categorical" refid="_18_2_bf902f3_1528990630722_346285_4988">
+<ownedElement>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528991555358_547048_5356"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile" refid="_18_2_bf902f3_1528994721878_360245_5689">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012813174_141531_6693"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Cohort [1]" refid="_18_2_bf902f3_1528994994494_574783_5848">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528995001942_255580_5869" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528995001942_637686_5870" text="1"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="represents" refid="_18_2_bf902f3_1528994791021_846588_5735">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528994830121_177253_5760" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528994830121_327416_5761" text="1"/>
+</ownedElement>
+</property>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528994748177_64177_5723"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1528989230906_746463_4548"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Query Definition [1]" refid="_18_2_bf902f3_1528988281992_479870_4194">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528988291616_259922_4210" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528988291617_471051_4211" text="1"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Profile Variable [1..*]" refid="_18_2_bf902f3_1528988343241_6349_4248">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528988363898_959772_4264" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528988363898_151270_4265" text="*"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Distribution Definition [0..*]" refid="_18_2_bf902f3_1528989662675_778729_4586">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1528990248772_36707_4755" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528990248772_901836_4756" text="*"/>
+</ownedElement>
+</property>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528987653485_608843_4078"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Cohort" refid="_18_2_bf902f3_1528994976509_987978_5810">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Clinical Profile" refid="_18_2_bf902f3_1528994994494_612561_5849"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution" refid="_18_2_bf902f3_1528990751323_154132_5071">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012162481_153718_6640"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Distribution Algorithm" refid="_18_2_bf902f3_1528991739584_505560_5458"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="type for" refid="_18_2_bf902f3_1528990769589_824789_5111">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1528990812305_933654_5161" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528990812305_251836_5162" text="*"/>
+</ownedElement>
+</property>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Algorithm" refid="_18_2_bf902f3_1528990602100_816787_4924">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Distribution" refid="_18_2_bf902f3_1528991739584_474247_5459"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="bound variable" refid="_18_2_bf902f3_1528991774023_956600_5485">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1529010385677_120530_6490" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1529010385678_793152_6491" text="*"/>
+</ownedElement>
+</property>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Definition" refid="_18_2_bf902f3_1528990408568_447705_4788">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529010988065_999168_6589"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="defines distribution for" refid="_18_2_bf902f3_1528989662675_26936_4585">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528990242499_447200_4747" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528990242499_374948_4748" text="1"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="type" refid="_18_2_bf902f3_1528990769589_682272_5110">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528990805101_47971_5153" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528990805102_946077_5154" text="*"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="variable binding" refid="_18_2_bf902f3_1528991797160_296407_5546">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1529012201150_852399_6646" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1529012201150_760145_6647" text="*"/>
+</ownedElement>
+</property>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528995638810_995494_6014"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Distribution Model" refid="_18_2_bf902f3_1528989573006_559117_4551"/>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR DomainResource" refid="_18_2_bf902f3_1528987538281_868329_4023">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1528987683185_850690_4079"/>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528987905951_125422_4109"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR ElementDefinition" refid="_18_2_bf902f3_1528989685117_934640_4629">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529011993890_18408_6626"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR StructureDefinition" refid="_18_2_bf902f3_1528989695086_983897_4661"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_902664364.jpg" name="FHIR Resource" refid="_18_2_bf902f3_1528987857178_475134_4081">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529010857398_177759_6581"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="FHIR StructureDefinition" refid="_18_2_bf902f3_1528989674430_608427_4602">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012081868_789248_6631"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : FHIR ElementDefinition [1..*]" refid="_18_2_bf902f3_1528989695086_198396_4660">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528989702241_269429_4676" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528989702242_337831_4677" text="*"/>
+</ownedElement>
+</property>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Profile Variable" refid="_18_2_bf902f3_1528988314949_20016_4217">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1528989163778_631727_4547"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Clinical Profile Definition" refid="_18_2_bf902f3_1528988343241_603990_4249"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="reference" refid="_18_2_bf902f3_1528988530671_811430_4542">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1528988789266_891202_4545"/>
+</ownedElement>
+</property>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="references" refid="_18_2_bf902f3_1528989712678_927154_4687">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528989750471_196377_4705" text="1"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="1" refid="_18_2_bf902f3_1528989750471_536342_4706" text="1"/>
+</ownedElement>
+</property>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Query Definition" refid="_18_2_bf902f3_1528988101682_136788_4112">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1528989115284_882728_4546"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Clinical Profile Definition" refid="_18_2_bf902f3_1528988281993_496581_4195"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Query Element" refid="_18_2_bf902f3_1528988119148_364325_4139">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="FHIR Elem" refid="_18_2_bf902f3_1528988161069_47017_4165"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Simple Quantity" refid="_18_2_bf902f3_1528990644942_41133_5020">
+<ownedElement>
+<generalization classType="Generalization" humanType="Generalization" icon="ClinicalProfiles_files/icon_generalization_413550077.jpg" isRelationship="true" refid="_18_2_bf902f3_1528991560962_753119_5361"/>
+</ownedElement>
+</class>
+<class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="URI" refid="_18_2_bf902f3_1528988695200_484095_4544"/>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Clinical Profile Definition - Query Definition]" refid="_18_2_bf902f3_1528988281992_865051_4193">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529011197497_942495_6598"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Clinical Profile Definition - Profile Variable]" refid="_18_2_bf902f3_1528988343241_127250_4247">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529011333022_725902_6604"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1023768392.jpg" isRelationship="true" name="Association[Distribution Definition - defines distribution for:Clinical Profile Definition]" refid="_18_2_bf902f3_1528989662675_304483_4584"/>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[FHIR StructureDefinition - FHIR ElementDefinition]" refid="_18_2_bf902f3_1528989695086_18020_4659">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012122050_921893_6635"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1023768392.jpg" isRelationship="true" name="Association[type for:Distribution Definition - type:Distribution]" refid="_18_2_bf902f3_1528990769589_591256_5109">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012380065_308790_6669"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Distribution - Distribution Algorithm]" refid="_18_2_bf902f3_1528991739583_886738_5457"/>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Distribution Definition - variable binding:binding]" refid="_18_2_bf902f3_1528991797160_599445_5545">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012680574_3203_6681"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1994960867.jpg" isRelationship="true" name="Association[Clinical Profile - represents:Distribution Definition]" refid="_18_2_bf902f3_1528994791020_624614_5734">
+<ownedElement>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Clinical Profile [0..*]" refid="_18_2_bf902f3_1528994791021_253542_5736">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1528994869260_679921_5782" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1528994869260_90964_5783" text="*"/>
+</ownedElement>
+</property>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_312988686.jpg" isRelationship="true" name="Association[Clinical Profile - Cohort]" refid="_18_2_bf902f3_1528994994493_833488_5847">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529013080649_443989_6697"/>
+</ownedElement>
+</association>
+<association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1994960867.jpg" isRelationship="true" name="element reference" refid="_18_2_bf902f3_1528989712678_15291_4686">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529011887225_416613_6622"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Profile Variable" refid="_18_2_bf902f3_1528989712679_92624_4688"/>
+</ownedElement>
+</association>
+<associationclass classType="AssociationClass" humanType="Association Class" icon="ClinicalProfiles_files/icon_associationclass_1592712032.jpg" isRelationship="true" name="binding" refid="_18_2_bf902f3_1528991774022_753229_5484">
+<ownedElement>
+<comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" isHidden="true" refid="_18_2_bf902f3_1529012581259_96900_6675"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name=" : Distribution Definition" refid="_18_2_bf902f3_1528991797160_186488_5547"/>
+<property classType="Property" humanType="Property" icon="ClinicalProfiles_files/icon_property_1181887497.jpg" name="used in" refid="_18_2_bf902f3_1528991774023_700187_5486">
+<ownedElement>
+<literalinteger classType="LiteralInteger" humanType="Literal Integer" icon="ClinicalProfiles_files/icon_literalinteger_873330668.jpg" isHidden="true" name="0" refid="_18_2_bf902f3_1529010503133_607788_6534" text="0"/>
+<literalunlimitednatural classType="LiteralUnlimitedNatural" humanType="Literal Unlimited Natural" icon="ClinicalProfiles_files/icon_literalunlimitednatural_963053451.jpg" isHidden="true" name="*" refid="_18_2_bf902f3_1529010503133_370879_6535" text="*"/>
+</ownedElement>
+</property>
+</ownedElement>
+</associationclass>
+</ownedElement>
+</model>
+</magicdraw>

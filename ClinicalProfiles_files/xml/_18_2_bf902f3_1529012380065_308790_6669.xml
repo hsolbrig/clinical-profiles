@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1529012380065_308790_6669"><annotatedElement humanName="Annotated Element" mode="standard,expert"><association classType="Association" humanType="Association" icon="ClinicalProfiles_files/icon_association_1023768392.jpg" isRelationship="true" name="Association[type for:Distribution Definition - type:Distribution]" refid="_18_2_bf902f3_1528990769589_591256_5109"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+&amp;#160;A &lt;b&gt;Distribution Definition&lt;/b&gt; references a set of &lt;a href="mdel://_18_2_bf902f3_1528990751323_154132_5071"&gt;Distribution types&lt;/a&gt;, and accompanying &lt;a href="mdel://_18_2_bf902f3_1528990602100_816787_4924"&gt;algorithms&lt;/a&gt;, and binds the algorithm parameters to some or all of the &lt;a href="mdel://_18_2_bf902f3_1528988314949_20016_4217"&gt;profile variables&lt;/a&gt; defined in a &lt;a href="mdel://_18_2_bf902f3_1528987628874_681091_4050"&gt;clinical profile definition&lt;/a&gt;.
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Association" humanName="Owner" humanType="Association" icon="ClinicalProfiles_files/icon_association_1023768392.jpg" isRelationship="true" mode="standard,expert" name="Association[type for:Distribution Definition - type:Distribution]" refid="_18_2_bf902f3_1528990769589_591256_5109"/><owningElement classType="Association" humanName="Owning Element" humanType="Association" icon="ClinicalProfiles_files/icon_association_1023768392.jpg" isRelationship="true" name="Association[type for:Distribution Definition - type:Distribution]" refid="_18_2_bf902f3_1528990769589_591256_5109"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>

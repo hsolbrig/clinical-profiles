@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><magicdraw><comment classType="Comment" humanType="Comment" icon="ClinicalProfiles_files/icon_comment_113881630.jpg" id="_18_2_bf902f3_1528989230906_746463_4548"><annotatedElement humanName="Annotated Element" mode="standard,expert"><class classType="Class" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/></annotatedElement><body humanName="Body" mode="standard,expert">&lt;html&gt;
+  &lt;head&gt;
+		&lt;style&gt;
+			p {padding:0px; margin:0px;}
+		&lt;/style&gt;
+	&lt;/head&gt;
+  &lt;body&gt;
+    &lt;p&gt;
+A &lt;b&gt;Clinical Profile Definition&lt;/b&gt; is an executable specification for the set of profile variables that appear in a &lt;a href="mdel://_18_2_bf902f3_1528994721878_360245_5689"&gt;Clinical Profile&lt;/a&gt;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+An abstraction of a SQL or FHIR query. A clinical profile definition includes the query definition (analogous to the relational algebra SELECT operation) and the profile variables (analogous to the relational algebra PROJECT operation).
+
+    &lt;/p&gt;
+
+    &lt;p&gt;
+&amp;#160;
+
+    &lt;/p&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</body><owner classType="Class" humanName="Owner" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" mode="standard,expert" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/><owningElement classType="Class" humanName="Owning Element" humanType="Class" icon="ClinicalProfiles_files/icon_class_1827212229.jpg" name="Clinical Profile Definition" refid="_18_2_bf902f3_1528987628874_681091_4050"/><TO_DO humanName="To Do" mode="standard,expert"/></comment></magicdraw>
